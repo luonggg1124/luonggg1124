@@ -35,7 +35,7 @@
 
 ## 📫 Contact Me
 
-- Email: [luongnm1124@gmail.com]
+- Email: luongnm1124@gmail.com
 
 
 
