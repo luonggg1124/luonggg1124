@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🔥 Passionate about building fast, secure, and scalable web applications. <br>
+  🔥 Passionate about building fast, secure, and scalable applications. <br>
   🧠 Strong experience with both frontend and backend using modern frameworks.<br>
   🇻🇳 Based in Vietnam | 🌐 Open to remote collaboration.
 </p>
