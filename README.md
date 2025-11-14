@@ -23,12 +23,12 @@
 ### Backend
 - 🔸 NestJS (TypeScript)
 - 🔸 Laravel (PHP)
-- 🔸 RESTful APIs
+- 🔸 RESTful API, Graphql
 - 🔸 Authentication (JWT, OAuth2), Validation, Queues
 
 ### DevOps & Others
 - 🐳 Docker & Docker Compose
-- ☁️ Deploy: Vercel, Laravel Cloud
+- ☁️ Deploy: Vercel
 - 🗃️ PostgreSQL, MySQL, MongoDB, Redis
 
 ---
